@@ -2,7 +2,7 @@
 title: TesterDriver
 SEOTitle: TesterDriver | TesterDriver
 #header-img: img/post-bg-desk.jpg
-header-img: img/banner3jpg.jpg
+header-img: img/banner1.jpg
 email: testerdriver@sina.com
 description: "Every failure is leading towards success."
 keyword: "TesterDriver, 自动化测试, 测试, 性能测试"
@@ -14,7 +14,7 @@ github_repo: "https://github.com/TesterDriver/testerdriver.github.io.git" # you 
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
 #sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
-sidebar-avatar: /img/logo.png
+sidebar-avatar: /img/qrcode.jpg
 
 
 # SNS settings
