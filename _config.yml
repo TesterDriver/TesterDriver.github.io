@@ -2,7 +2,7 @@
 title: TesterDriver
 SEOTitle: TesterDriver | TesterDriver
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: testerdriver@sina.com
 description: "Every failure is leading towards success."
 keyword: "TesterDriver, 自动化测试, 测试, 性能测试"
 url: "http://testerdriver.github.io"          # your host, for absolute URL
@@ -86,7 +86,7 @@ ba_track_id: f453b52b751aedcd6b4a1065d759d5ae
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 
 
