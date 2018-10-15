@@ -100,16 +100,13 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "微信公众号",
+        href: "https://mp.weixin.qq.com/s/JwJqEd_-mkTGurmeU5rluQ"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "Github",
+        href: "https://github.com/TesterDriver"
     },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "悟空问答",
+        href: "https://www.wukong.com/user/"
     }
 ]
