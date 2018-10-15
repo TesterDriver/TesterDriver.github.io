@@ -1,7 +1,8 @@
 # Site settings
 title: TesterDriver
 SEOTitle: TesterDriver | TesterDriver
-header-img: img/post-bg-desk.jpg
+#header-img: img/post-bg-desk.jpg
+header-img: img/banner3jpg.jpg
 email: testerdriver@sina.com
 description: "Every failure is leading towards success."
 keyword: "TesterDriver, 自动化测试, 测试, 性能测试"
